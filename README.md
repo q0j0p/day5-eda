@@ -63,9 +63,9 @@ Finally, EDA is also a crucial skill: EDA is how to approach a new data, to lear
 
 Today's exercises are:
 
-#.  [miniquiz to setup AWS](https://github.com/zipfian/fundamentals/blob/master/miniquiz.md)
-#.  [individual exercise](https://github.com/zipfian/fundamentals/blob/master/individual.md)
-#.  [pair exercise](https://github.com/zipfian/fundamentals/blob/master/pair.md)
+1.  [miniquiz to setup AWS](https://github.com/zipfian/fundamentals/blob/master/miniquiz.md)
+2.  [individual exercise](https://github.com/zipfian/fundamentals/blob/master/individual.md)
+3.  [pair exercise](https://github.com/zipfian/fundamentals/blob/master/pair.md)
 
 ##  References
 
