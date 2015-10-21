@@ -42,7 +42,7 @@ Today's agenda:
 | Time      | Topic             |
 | :-------- | :---------------- |
 | 8:30-8:45 | Survey            |
-| 8:45-9:15     | Sign up for AWS -- follow instructions in miniquiz.md       |
+| 8:45-9:15     | Sign up for AWS -- follow instructions in [miniquiz](https://github.com/zipfian/fundamentals/blob/master/miniquiz.md)       |
 | 9:15-10:15    | Unix & REGEX lecture  |
 | 10:15-12:00   | Individual exercise   |
 | 1:15-2:30     | Workflow & EDA        |
