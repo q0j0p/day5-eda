@@ -29,8 +29,8 @@ In addition, you will set up your AWS account so that Amazon can finish processi
     -   Define steps
     -   Define steps in VV&UQ
 *   Perform basic EDA
-    -   Summary statistics
-    -   Plots
+    -   Summary statistics: min, max, mean, sd, quartiles, median
+    -   Plots: scatter, box, bar, histogram, matrix scatter plots
     -   Simple tests
     -   Handling missing data
 
