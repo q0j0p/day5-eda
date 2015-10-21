@@ -41,24 +41,31 @@ Today's agenda:
 
 | Time      | Topic             |
 | :-------- | :---------------- |
-| 8:30-9:00 | Survey            |
-| 9:00-10:00    | Unix & REGEX lecture  |
-| 10:00-12:00   | Individual exercise   |
-| 1:15-1:45     | Sign up for AWS       |
-| 1:45-2:45     | Workflow & EDA        |
-| 2:45-5:30     | Pair exercise         |
+| 8:30-8:45 | Survey            |
+| 8:45-9:15     | Sign up for AWS -- follow instructions in miniquiz.md       |
+| 9:15-10:15    | Unix & REGEX lecture  |
+| 10:15-12:00   | Individual exercise   |
+| 1:15-2:30     | Workflow & EDA        |
+| 2:30-5:30     | Pair exercise         |
 
 
 ##  A little background on today's topics
 
 Unix -- and by extension OS/X from the terminal -- provides the best platform for doing science because it is robust and has many simple simple commands which can easily be combined to solve whatever problems you encounter.  Furthermore, scientific clusters and cloud computing such as [Amazon Web Services](https://aws.amazon.com) (AWS) almost always runs some flavor of Linux.  Learning Unix will considerably boost your productivity because it will help you wrangle data and quickly answer questions about files, data, and more.
 
-[Regular expressions](https://en.wikipedia.org/wiki/Regular_expression) or REGEX are a language to describe arbitrarily complex patterns.  Learning regex will improve your abilities to search and replace text in your code and other files.  [RegExr](http://www.regexr.com) is a great resource to learn, test, and develop regular expressions.  You can use REGEX with both Unix command-line tools such as `grep`, editors, and  programming languages, including Python, Perl, and others.
+[Regular expressions](https://en.wikipedia.org/wiki/Regular_expression) (a.k.a.,  REGEX or RE) are a language to describe arbitrarily complex patterns.  Learning regex will improve your abilities to search and replace text in your code and other files.  [RegExr](http://www.regexr.com) is a great resource to learn, test, and develop regular expressions.  You can use REGEX with both Unix command-line tools such as `grep`, editors, and  programming languages, including Python, Perl, and others.
 
 Using a consistent and standard workflow will also make your more productive because following a standard process ensures that you don't omit steps in your analysis and that you avoid common errors.  [CRISP-DM](https://en.wikipedia.org/wiki/Cross_Industry_Standard_Process_for_Data_Mining) is currently one of the best and most popular approaches.  However, it doesn't put enough emphasis on testing and ensuring correctness.  [Verification, validation, and uncertainty quantification](https://en.wikipedia.org/wiki/Verification_and_validation) provides an epistemological framework for thinking about correctness in science.  [Oberkampf & Roy](http://www.amazon.com/Verification-Validation-Scientific-Computing-Oberkampf/dp/0521113601/ref=sr_1_1?ie=UTF8&qid=1444933963&sr=8-1&keywords=oberkampf+and+roy) is a better, but non-free, referecne on VV&UQ.
 
 Finally, EDA is also a crucial skill: EDA is how to approach a new data, to learn its properties, and to formulate hypotheses about its strengths and weaknesses as well as what kind of model to build.  EDA is a crucial step in the (CRISP-DM) workflow:  do not skip EDA, because you will not clean or model your data correctly if you don't understand it.
 
+##  Exercises
+
+Today's exercises are:
+
+#.  [miniquiz to setup AWS](https://github.com/zipfian/fundamentals/blob/master/miniquiz.md)
+#.  [individual exercise](https://github.com/zipfian/fundamentals/blob/master/individual.md)
+#.  [pair exercise](https://github.com/zipfian/fundamentals/blob/master/pair.md)
 
 ##  References
 
@@ -69,3 +76,5 @@ For VV & UQ, see [Verification and Validation in Scientific Computing](http://ww
 Wikipedia has a nice [summary of plots](https://en.wikipedia.org/wiki/Exploratory_data_analysis) which are useful during EDA.  Also, look at Anscombe's [quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) to see the importance of plotting data and not just looking at summary statistics.
 
 [Vim Adventures](http://vim-adventures.com) is a fun game which will teach you how to use `vim`.
+
+A nice [tutorial](http://www.tutorialspoint.com/python/python_reg_expressions.htm) on regular expressions is available on [tutorialpoint](http://www.tutorialspoint.com/python/python_reg_expressions.htm).  Use [RegExr](http://www.regexr.com) to test your REs.
