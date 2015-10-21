@@ -13,15 +13,15 @@ In addition, you will set up your AWS account so that Amazon can finish processi
 ##  Objectives
 
 *   Master basic Unix surival skills:
-    -   Configure your environment (export, echo, dotfiles)
+    -   Configure your environment (`export`, `echo`, dotfiles)
     -   Understand Unix permissions
-    -   Navigate filesystem (cd, rm, mkdir, rmdir, touch, find, chmod, chown)
-    -   Examine and characterize files (less, head, tail, cat, wc, od, grep, md5sum)
-    -   Operate on text files (cut, paste, sed, awk)
+    -   Navigate filesystem (`cd`, `rm`, `mkdir`, `rmdir`, `touch`, `find`, `chmod`, `chown`)
+    -   Examine and characterize files (`less`, `head`, `tail`, `cat`, `wc`, `od`, `grep`, `md5sum`)
+    -   Operate on text files (`sort`, `uniq`, `cut`, `paste`, `sed`, `awk`)
     -   Use filter + pipes model to create complex commands
     -   Write a basic shell script
-    -   Access a remote machine (ssh, scp, sftp)
-    -   Survive vi, emacs, nano, or pico
+    -   Access a remote machine (`ssh`, `scp`, `sftp`)
+    -   Survive `vi`, `emacs`, `nano`, or `pico`
 *   REGEX
     -   Define a regex
     -   Read & write basic regex for search and replace
@@ -67,3 +67,5 @@ For Unix, one of Sobell's Linux books is a great references, such as [A Practica
 For VV & UQ, see [Verification and Validation in Scientific Computing](http://www.amazon.com/Verification-Validation-Scientific-Computing-Oberkampf/dp/0521113601/ref=sr_1_1?ie=UTF8&qid=1444933963&sr=8-1&keywords=oberkampf+and+roy) by Oberkampf and Roy.
 
 Wikipedia has a nice [summary of plots](https://en.wikipedia.org/wiki/Exploratory_data_analysis) which are useful during EDA.  Also, look at Anscombe's [quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) to see the importance of plotting data and not just looking at summary statistics.
+
+[Vim Adventures](http://vim-adventures.com) is a fun game which will teach you how to use `vim`.
