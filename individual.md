@@ -7,7 +7,7 @@ Unix is particularly adroit at handling text files because there are many comman
 
 ## Getting help
 
-What does the `man` command do?  Use `man` to learn how to use `man`.  Often, manpages are still a useful source of information.
+What does the `man` command do?  Use `man` to learn how to use `man`.  Often, man-pages are still a useful source of information.
 
 
 ##  Customizing `bash`
@@ -47,7 +47,7 @@ Often, I like to look at the beginning and end of a file.  A one-liner to do thi
 $ (head -n 5 ; echo "==========" ; tail -n 5) < some_file_of_interest
 ```
 
-The expression between the parentheses will run in a subshell.  We use I/O redirction so the shell will read from `some_file_of_interest`.  Create an alias to do this.  Hint: leave off the `< some_file_of_interest` part.  Then you can run you alias as `inspect < some_file_of_interest`.  In this case, using an alias is not as clean as using a shell script because you have to specify I/O redirection and you have hard coded the number of lines to display.  Write a script `inspect.sh`.  Make sure you can pass the name of the file as an argument.  Optionally, support an extra argument to specify how many lines to display.  Don't forget to change the permissions so that your script is executable.
+The expression between the parentheses will run in a sub-shell.  We use I/O redirection so the shell will read from `some_file_of_interest`.  Create an alias to do this.  Hint: leave off the `< some_file_of_interest` part.  Then you can run you alias as `inspect < some_file_of_interest`.  In this case, using an alias is not as clean as using a shell script because you have to specify I/O redirection and you have hard coded the number of lines to display.  Write a script `inspect.sh`.  Make sure you can pass the name of the file as an argument.  Optionally, support an extra argument to specify how many lines to display.  Don't forget to change the permissions so that your script is executable.
 
 
 ### Environment variables
@@ -98,6 +98,6 @@ Let's answer some basic questions about contributors.
 
 *   How many contributors are identified by the tag `<username>`?
 
-*   Who are the most common contributors by username? Hint: you will need to connect several commands via pipes.  `sed` or `perl` with the right regular expression will allow you to extract the name from between the `<username>` ... `</username>` tags.  `sed` uses an older verion of REs so you will need to escape the parentheses on the capture group.
+*   Who are the most common contributors by username? Hint: you will need to connect several commands via pipes.  `sed` or `perl` with the right regular expression will allow you to extract the name from between the `<username>` ... `</username>` tags.  `sed` uses an older version of REs so you will need to escape the parentheses on the capture group.
 
 *   What are the other contributors?  Hint: use `sed` or `perl`.  How many of these contributors are there?  Do they explain all of the missing contributors?
