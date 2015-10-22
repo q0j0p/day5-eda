@@ -100,4 +100,6 @@ Let's answer some basic questions about contributors.
 
 *   Who are the most common contributors by username? Hint: you will need to connect several commands via pipes.  `sed` or `perl` with the right regular expression will allow you to extract the name from between the `<username>` ... `</username>` tags.  `sed` uses an older version of REs so you will need to escape the parentheses on the capture group.
 
-*   What are the other contributors?  Hint: use `sed` or `perl`.  How many of these contributors are there?  Do they explain all of the missing contributors?
+*   How many of the contributors are bots?
+
+*   Advanced:   What are the other contributors -- i.e., those entries which have a `<contributor>` tag but not a nested `<username>` tag?  Hint: use `sed` or `perl`.  How many of these contributors are there?  Do they explain all of the missing contributors?
