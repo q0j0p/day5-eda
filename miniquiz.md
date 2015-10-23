@@ -49,7 +49,7 @@ To connect to an Amazon EC2 instances, you need to create an **SSH key pair**.
   that starts with a `.` will hide the folder. In this case, you want to hide the sensitive information.
   Change the permissions of the file using this command:
 
-  ```$ chmod 600 </path/to/saved/keypair/file.pem>```
+  ```$ chmod 400 </path/to/saved/keypair/file.pem>```
 
 <br>
 
