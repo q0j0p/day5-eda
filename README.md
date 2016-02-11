@@ -73,6 +73,8 @@ For Unix, one of Sobell's Linux books is a great references, such as [A Practica
 
 For VV & UQ, see [Verification and Validation in Scientific Computing](http://www.amazon.com/Verification-Validation-Scientific-Computing-Oberkampf/dp/0521113601/ref=sr_1_1?ie=UTF8&qid=1444933963&sr=8-1&keywords=oberkampf+and+roy) by Oberkampf and Roy.
 
+[Fundamentals of Machine Learning for Predictive Data Analytics](https://mitpress.mit.edu/books/fundamentals-machine-learning-predictive-data-analytics) provides a great discussion of how to use CRISP-DM to solve data science problems as well as a good introduction to common ML models and several case studies.  In addition, their is a nice appendix which explains how to do EDA.
+
 Wikipedia has a nice [summary of plots](https://en.wikipedia.org/wiki/Exploratory_data_analysis) which are useful during EDA.  Also, look at Anscombe's [quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) to see the importance of plotting data and not just looking at summary statistics.
 
 [Vim Adventures](http://vim-adventures.com) is a fun game which will teach you how to use `vim`.
