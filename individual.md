@@ -67,7 +67,7 @@ Let's analyze some Wikipedia data using Unix tools.  But first some advice:  you
 Start by downloading the data using the command line:
 
 ```bash
-$ wget https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles1.xml-p000000010p000010000.bz2
+$ wget https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles1.xml-p000000010p000030302.bz2
 ```
 
 *   What does the `wget` command do?  Could you also use `curl`?
