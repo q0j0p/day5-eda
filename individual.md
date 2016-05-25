@@ -68,11 +68,12 @@ Start by downloading the data using the command line:
 
 ```bash
 $ wget https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles1.xml-p000000010p000030302.bz2
+$ wget https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles1.xml-p000000010p000030302.bz2
 ```
 
 *   What does the `wget` command do?  Could you also use `curl`?
 
-*   What type of file is `enwiki-latest-pages-articles1.xml-p000000010p000010000.bz2`?  How can you figure out the a file's type? Often files come in different (compressed) archive formats. `tar` and `gzip` are common.  Unpack the file.
+*   What type of file is `enwiki-latest-pages-articles1.xml-p000000010p000030302.bz2`?  How can you figure out the a file's type? Often files come in different (compressed) archive formats. `tar` and `gzip` are common.  Unpack the file.
 
 *   How big is it?  How many lines does it have?  What type of file is the uncompressed version of the file?
 
