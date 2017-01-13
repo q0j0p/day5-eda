@@ -42,7 +42,7 @@ Today's agenda:
 | Time      | Topic             |
 | :-------- | :---------------- |
 | 8:30-8:45 | Survey            |
-| 8:45-9:15     | Sign up for AWS -- follow instructions in [miniquiz](https://github.com/zipfian/miniquizzes/blob/master/setup_aws.md)       |
+| 8:45-9:15     | Sign up for AWS -- follow instructions in [setup_aws.md](setup_aws.md)
 | 9:15-10:15    | Unix & REGEX lecture  |
 | 10:15-12:00   | Individual exercise   |
 | 1:15-2:30     | Workflow & EDA        |
@@ -63,9 +63,9 @@ Finally, EDA is also a crucial skill: EDA is how to approach a new data, to lear
 
 Today's exercises are:
 
-1.  [miniquiz to setup AWS](https://github.com/zipfian/miniquizzes/blob/master/setup_aws.md)
-2.  [individual exercise](https://github.com/zipfian/fundamentals/blob/master/individual.md)
-3.  [pair exercise](https://github.com/zipfian/fundamentals/blob/master/pair.md)
+1.  [Setup AWS](setup_aws.md)
+2.  [Individual Exercise](https://github.com/zipfian/fundamentals/blob/master/individual.md)
+3.  [Pair Exercise](https://github.com/zipfian/fundamentals/blob/master/pair.md)
 
 ##  References
 
