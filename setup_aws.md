@@ -29,8 +29,7 @@ Go to [http://aws.amazon.com/](http://aws.amazon.com/) and sign up:
 
 ## Part 2: Activate your AWS free credit
 
-As a Galvanize member, you are entitled to some free credits. Follow the steps below to activate your credits.
-They will come in around 2 weeks time.
+As a Galvanize member, you are entitled to some free Amazon Web Services credits that may be useful for your capstone projects. Follow the steps below to activate your credits. Credits typically arrive in your AWS account 2-4 weeks after your application. You will not necessarily receive an e-mail from AWS when your credits post to your account, so don't hesitate to log in and check if you're curious.
 
 Go to [http://aws.amazon.com/activate/portfolio-signup/](http://aws.amazon.com/activate/portfolio-signup/)
 and fill in your details. Make sure the email you fill in is the one you have provided in the 
